@@ -17,7 +17,9 @@ public class AddressBook {
         addBook.remove(new BuddyInfo(name,address,phoneNum));
     }
 
+    public void newMethod() {
 
+    }
     public static void main(String[] args) {
         AddressBook book=new AddressBook();
         book.addBuddy("halland","manchester city england",818);
