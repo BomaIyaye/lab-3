@@ -1,6 +1,6 @@
 public class BuddyInfo {
 
-
+//BomaIyaye 101197410
     private String name;
     private String address;
     private int phoneNum;
